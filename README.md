@@ -1,4 +1,4 @@
-# Rceipts Points API
+# Receipts Points API
 
 This is an API that takes in a receipt and calculates points based on the required parameters. 
 
